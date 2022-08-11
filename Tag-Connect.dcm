@@ -12,6 +12,12 @@ K connector
 F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
 $ENDCMP
 #
+$CMP TC2030-IDC-console
+D Header, Tagconnect, 2x3, console-adapter
+K connector
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
 $CMP TC2050-IDC
 D Header, Tagconnect, 2x5
 K connector
